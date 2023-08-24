@@ -1,7 +1,12 @@
 - 👋 Helllooo, I am @CEODemitri
-- 👀 I’m interested in all things electric and magnetic! New developer {est. feb 2023}
-- 🌱 I’m currently learning all things software development. thank you
-- 💞️ I’m looking to collaborate on innovative technologies and dinosaur projects alike
+- 👀 I’m interested in all things electric and magnetic! I have been learning programming since November 2022. At this moment, I am focusing on a specilization in developing Full Stack Web Applications I have completed various certificates to earn my credentials as a developer {est. feb 2023}
+- 🌱 I’m currently learning:
+-         Advanced Python Programming
+-         C#
+-         Ruby
+-         Java
+-         JavaScript; And Various Frameworks and Libraries
+- 💞️I’m looking to collaborate on innovative technologies and dinosaur projects alike. I can adapt as needed to best enhance the main project.
 - 📫 How to reach me ... look at up the moon and howl
     <details>
 
@@ -11,7 +16,7 @@
 
     As A Full Stack Developer, I have a vast working knowledge across the board. 
       <details>
-        <summary>One Year Working Knowledge</summary>
+        <summary>One Year Knowledge</summary>
         <ul>
           1. T3 Stack
           2. MERN Stack
