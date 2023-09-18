@@ -17,19 +17,29 @@
 
     As A Full Stack Developer, I have a vast working knowledge across the board. 
       <details>
-        <summary>One Year Knowledge</summary>
+        <summary>Intermediate Knowledge</summary>
         <ul>
-          1. T3 Stack
+          0. HTML5/CSS3
+          1. Javascript
           2. MERN Stack
-          3. HTML5/CSS3
+          3. T3 Stack
           4. Python
+          5. Branding/Identity
         </ul>
+
+        <summary>Beginner Knowledge</summary>
+        <ul>
+          0. Java
+          1. PHP
+          2. Software Testing
+        </ul>
+  
       </details>
 
     </details>
     
     ```ruby
-     puts "Hello People!"
+     puts "Zaijan People!"
     ```
 
 <!---
