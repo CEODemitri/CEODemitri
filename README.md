@@ -34,7 +34,6 @@
           1. PHP
           2. Software Testing
         </ul>
-  
       </details>
 
     </details>
