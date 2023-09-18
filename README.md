@@ -1,15 +1,16 @@
 - 👋 Helllooo, I am @CEODemitri
-- 👀 I’m interested in all things electric and magnetic! I have been learning programming since November 2022. At this moment, I am focusing on a specilization in developing Full Stack Web Applications I have completed various certificates to earn my credentials as a developer {est. feb 2023}
-- 🌱 I’m currently learning:
+- 👀 I’m interested in all things electric and magnetic! I have been learning programming since November 2022. At this moment, I am focusing on a specilization in developing Full Stack Web Applications. Programming is a passion of mine so I strive, constantly, to be a better Developer. I have completed various certificates to earn my credentials as a developer {est. feb 2023}
+- 🌱 I’m currently earning Certifications:
 -         Advanced Python Programming
 -         C#
 -         Ruby
 -         Java
 -         JavaScript; And Various Frameworks and Libraries
-- 💞️I’m looking to collaborate on innovative technologies and dinosaur projects alike. I can adapt as needed to best enhance the main project.
+-         Machine Learning & Artificial Intelligence
+- 💞️I’m looking to collaborate on innovative technologies and legacy projects alike. I can adapt as needed to best enhance and collaborate on the main project.
 - 📫 How to reach me ... look at up the moon and howl
+- 
     <details>
-
     <summary>Specialties</summary>
 
     ### Skills are updated monthly At The Moment
