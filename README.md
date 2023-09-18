@@ -26,7 +26,8 @@
           4. Python
           5. Branding/Identity
         </ul>
-
+      </details>
+      <details>
         <summary>Beginner Knowledge</summary>
         <ul>
           0. Java
