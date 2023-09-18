@@ -35,8 +35,6 @@
           2. Software Testing
         </ul>
       </details>
-
-    </details>
     
     ```ruby
      puts "Zaijan People!"
