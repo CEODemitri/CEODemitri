@@ -19,20 +19,21 @@
       <details>
         <summary>Intermediate Knowledge</summary>
         <ul>
-          0. HTML5/CSS3
-          1. Javascript
-          2. MERN Stack
-          3. T3 Stack
-          4. Python
+          0. HTML5/CSS3 <br/>
+          1. Javascript <br/>
+          2. MERN Stack <br/>
+          3. T3 Stack <br/>
+          4. Python <br/>
           5. Branding/Identity
         </ul>
       </details>
+      <hr />
       <details>
         <summary>Beginner Knowledge</summary>
         <ul>
-          0. Java
-          1. PHP
-          2. Software Testing
+          0. Java <br/>
+          1. PHP <br/>
+          2. Software Testing 
         </ul>
       </details>
     
