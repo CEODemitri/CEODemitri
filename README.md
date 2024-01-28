@@ -51,8 +51,8 @@
         <ul>
           0. C <br/>
           1. PHP <br/>
-          2. Software Testing
-          3. Docker
+          2. Software Testing <br/>
+          3. Docker <br/>
           4. Jira 
         </ul>
       </details>
