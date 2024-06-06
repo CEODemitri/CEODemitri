@@ -10,7 +10,7 @@
 - 3. Intellij
 - 4. Svelte
 - 5. React
-- 6. Chat-GPT4
+- 6. Ruby
   --------
 - 💞️ Looking to collaborate on innovative technologies and legacy projects alike. I can adapt as needed to best enhance and collaborate on the main project.
 - 📫 How to reach me ... look at up the moon and howl
