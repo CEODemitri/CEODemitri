@@ -1,7 +1,7 @@
 - 👋 Halllooo Kosmos, ich bin @CEODemitri.
 - 👀 I’m interested in all things electric and magnetic! I have been learning programming since November 2022. At this moment, I am focusing on a specilization in developing Full Stack Web Applications. Programming is a passion of mine so I push myself by: writing clean code and staying current as possible. I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
 - 🌱 I’m currently earning Certifications:
--         UX Design: Google 5/6 courses
+-         UX Design: Google 5/7 courses
 -         JavaScript: FreeCodeCamp
 -         Cloud Development: IBM 5/11 courses.
 - 🪄 Tools
