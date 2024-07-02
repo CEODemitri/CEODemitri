@@ -1,4 +1,4 @@
-- # 👋 Halllooo Kosmos, heiBe Demitri. Ich bin ... 
+- # 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
 - interested in all things electric and magnetic! Deeply invested in programming since November 2022 with a specilization in developing Full Stack Web Applications. With this newfound passion, I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
 - 🌱 I’m currently earning Certifications:
 -         UX Design: Google 5/7 courses
@@ -8,11 +8,12 @@
 - 1. Figma/Inkscape
 - 2. VSCode/Intellij
   3. HTML/CSS
-  4. Javascript/Ruby/Python/Dart
-- 4. Svelte/Sveltekit
-- 5. React/NextJs
-  6. TailwindCSS
-  7. Bootstrap
+  4. Javascript/React/NextJs
+- 5. Svelte/Sveltekit
+  6. Vue/Nuxt
+- 7. Ruby/Rails
+  8. TailwindCSS
+  9. Bootstrap
   --------
   ## Ready as a Helpful Hand
 - 💞️ I am Looking to collaborate on innovative technologies and legacy projects alike. I can adapt as needed to best enhance and collaborate on the main project.
