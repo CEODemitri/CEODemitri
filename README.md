@@ -1,7 +1,7 @@
 - # 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
 - interested in all things electric and magnetic! Deeply invested in programming since November 2022 with a specilization in developing Full Stack Web Applications. With this newfound passion, I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
 - 🌱 I’m currently earning Certifications:
--         UX Design: Google 5/7 courses
+-         UX Design: Google 6/7 courses
 -         JavaScript: FreeCodeCamp
 -         Cloud Development: IBM 5/11 courses.
   ## 🪄 Favorite Tools
