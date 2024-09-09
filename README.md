@@ -4,7 +4,6 @@
 -         UX Design: Google 6/7 courses
 -         JavaScript: FreeCodeCamp
 -         Cloud Development: IBM 5/11 courses.
--     ![image](https://github.com/user-attachments/assets/88c24ca4-4683-4f90-9227-a73966bd517c)
 
   ## 🪄 Favorite Tools
   1. Figma
@@ -12,7 +11,10 @@
   3. Intellij
   4. Codepen.io
   5. Arc Web Browser
- 
+
+![image](https://github.com/user-attachments/assets/41d8a74e-638a-4c04-b47a-092c23d7048f)
+
+
   ## Mein Favorite Languages / Frameworks
   1. HTML/CSS/JS
   2. React/NextJs
