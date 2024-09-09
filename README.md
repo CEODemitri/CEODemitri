@@ -5,15 +5,21 @@
 -         JavaScript: FreeCodeCamp
 -         Cloud Development: IBM 5/11 courses.
   ## 🪄 Favorite Tools
-- 1. Figma/Inkscape
-- 2. VSCode/Intellij
-  3. HTML/CSS
-  4. Javascript/React/NextJs
-- 5. Svelte/Sveltekit
-  6. Vue/Nuxt
-- 7. Ruby/Rails
-  8. TailwindCSS
-  9. Bootstrap
+![image](https://github.com/user-attachments/assets/a6537336-c7c7-4ed3-bf62-5dad121755c8)
+
+  1. Figma
+  2. Inkscape | Affinity Designer
+  3. Intellij
+  4. Codepen.io
+  5. Arc Web Browser
+ 
+  ## Mein Favorite Languages / Frameworks
+  1. HTML/CSS/JS
+  2. React/NextJs
+  3. Svelte/Sveltekit
+  4. Ruby & Rails
+  5. Vue/Nuxt
+  6. TailwindCSS
   --------
   ## Ready as a Helpful Hand
 - 💞️ I am Looking to collaborate on innovative technologies and legacy projects alike. I can adapt as needed to best enhance and collaborate on the main project.
