@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577)
+
+
 - # 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
 - interested in all things electric and magnetic! Deeply invested in programming since November 2022 with a specilization in developing Full Stack Web Applications. With this newfound passion, I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
 - 🌱 I’m currently earning Certifications:
@@ -12,10 +15,7 @@
   4. Codepen.io
   5. Arc Web Browser
 
-![image](https://github.com/user-attachments/assets/41d8a74e-638a-4c04-b47a-092c23d7048f)
-
-
-  ## Mein Favorite Languages / Frameworks
+  ## ![image](https://github.com/user-attachments/assets/7ffa71ae-e4bd-4df1-82d8-87c39d8dc010) Mein Favorite Languages / Frameworks
   1. HTML/CSS/JS
   2. React/NextJs
   3. Svelte/Sveltekit
