@@ -15,7 +15,7 @@
   4. Codepen.io
   5. Arc Web Browser
 
-  ## ![image](https://github.com/user-attachments/assets/7ffa71ae-e4bd-4df1-82d8-87c39d8dc010) Mein Favorite Languages / Frameworks
+  ## ![image](https://github.com/user-attachments/assets/ed11adb0-c358-4f29-9706-ecab8122e0ae) Mein Favorite Languages / Frameworks
   1. HTML/CSS/JS
   2. React/NextJs
   3. Svelte/Sveltekit
