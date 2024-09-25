@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577)
+ ![image](https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577)
 
 
 - # 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
@@ -9,8 +9,8 @@
 -         Cloud Development: IBM 5/11 courses.
 
   ## 🪄 Favorite Tools
-  1. Figma
-  2. Inkscape | Affinity Designer
+  1. Figma | Inkscape | Affinity Designer
+  2. Daisy UI 
   3. Intellij
   4. Codepen.io
   5. Arc Web Browser
@@ -22,6 +22,7 @@
   4. Ruby & Rails
   5. Vue/Nuxt
   6. TailwindCSS
+  7. Python
   --------
   ## Ready as a Helpful Hand
 - 💞️ I am Looking to collaborate on innovative technologies and legacy projects alike. I can adapt as needed to best enhance and collaborate on the main project.
