@@ -24,6 +24,7 @@ Ich bin deep diving in tech, carving my own path! Committed and invested in prog
   5. Vue/Nuxt
   6. TailwindCSS
   7. Python
+  8. SQL
   --------
   
 
