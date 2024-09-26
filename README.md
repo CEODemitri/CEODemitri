@@ -1,7 +1,7 @@
  ![image](https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577)
 
 
-- # 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
+# 👋 Hallooo Kosmos, heiBe Demitri. Ich bin ... 
 - interested in all things electric and magnetic! Deeply invested in programming since November 2022 with a specilization in developing Full Stack Web Applications. With this newfound passion, I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
 - 🌱 I’m currently earning Certifications:
 -         UX Design: Google 6/7 courses
