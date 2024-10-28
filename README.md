@@ -17,7 +17,7 @@
         </p>
     </article>
     <article>
-        <h3 align="center">Top Languages and Tools:</h3>
+        <h3 align="center">My Favorites:</h3>
         <p align="center">
             <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
                 <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
