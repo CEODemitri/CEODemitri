@@ -3,12 +3,7 @@
 
 # 👋 Hallooo Kosmos, heiBe Demitri!
 
-Ich bin deep diving in tech, carving my own path! Committed and invested in programming since November 2022 with a specilization in developing Full Stack Web Applications. With this newfound passion I have completed hundreds of certificates in a span of a year, to earn my credentials as a web developer {est. feb 2023}.
-- 🌱 I’m currently earning Certifications:
--         Google Career: 
-            1. UX/UI 6/7 courses 
--         JavaScript: FreeCodeCamp
--         Cloud Development: IBM 5/11 courses.
+Ich bin Demitri, your next Developer. I live to learn, working and growing every day. Enjoy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
