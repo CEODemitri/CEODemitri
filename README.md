@@ -1,4 +1,4 @@
-<link href="style. css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet"></link>
 
 ![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
 
