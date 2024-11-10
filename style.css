@@ -1,0 +1,7 @@
+.icons {
+  width: 20svw;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
