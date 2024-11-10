@@ -18,7 +18,7 @@
     </article>
     <article>
         <h3 align="center">My Favorites:</h3>
-        <p align="center">
+        <div style="width:100px; display: flex; flex-wrap:wrap; justify-content: center;">
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
             </a>
@@ -28,8 +28,6 @@
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
             </a>
-        </p>
-        <p align="center">
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
             </a>
@@ -39,8 +37,6 @@
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
             </a>
-        </p>
-        <p align="center">
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
             </a>
@@ -53,16 +49,14 @@
             <a href="https://www.python.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
             </a>
-        </p>
-         <p align="center">
+             <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+            </a>
             <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
             </a>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-            </a>
-            <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
             </a>
             <a href="https://svelte.dev" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
@@ -70,7 +64,7 @@
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
             </a>
-        </p>
+        </div>
     </article>
     <div>
         <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceodemitri&show_icons=true&locale=en&layout=compact" alt="ceodemitri" /></p>
