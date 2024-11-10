@@ -1,3 +1,4 @@
+<link href="style. css" rel="stylesheet"></link>
 
 ![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
 
@@ -18,7 +19,7 @@
     </article>
     <article>
         <h3 align="center">My Favorites:</h3>
-        <div style="width:100px; display: flex; flex-wrap:wrap; justify-content: center;">
+        <div class="icons">
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
             </a>
