@@ -2,11 +2,10 @@
 ![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
 
 
-# 👋 Hallooo Kosmos, heiBe Demitri!
+# Hallo Kosmos!
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577" height="50" width="50"/>
-    <p align="center">Ich bin Demitri, your next Developer. I live to learn, working and growing every day. Enjoy.</p>
+    <p align="center">Ich bin Demitri, your next Developer. I live to learn, working and growing every day. My greatest joy is the idea of building for the future. Welcome to my exploration. Enjoy.</p>
     <article>
         <h3 align="center">Connect with me:</h3>
         <p align="center">
@@ -20,14 +19,8 @@
     <article>
         <h3 align="center">My Favorites:</h3>
         <p align="center">
-            <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
-                <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/>
-            </a>
             <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
                 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
             </a>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -35,39 +28,21 @@
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
             </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-            </a>
         </p>
         <p align="center">
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
             </a>
-            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-            </a>
             <a href="https://flutter.dev" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-            </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-            </a>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
             </a>
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
             </a>
         </p>
         <p align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-            </a>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-            </a>
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
             </a>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -88,9 +63,6 @@
             </a>
             <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-            </a>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
             </a>
             <a href="https://svelte.dev" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
