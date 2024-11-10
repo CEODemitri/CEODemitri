@@ -1,3 +1,7 @@
+
+![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
+
+
 # 👋 Hallooo Kosmos, heiBe Demitri!
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
