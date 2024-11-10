@@ -1,10 +1,7 @@
-
-
-
 # 👋 Hallooo Kosmos, heiBe Demitri!
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    
+    <img src="https://github.com/user-attachments/assets/2173ac8d-845a-4609-a1aa-1d4b64210577" height="50" width="50"/>
     <p align="center">Ich bin Demitri, your next Developer. I live to learn, working and growing every day. Enjoy.</p>
     <article>
         <h3 align="center">Connect with me:</h3>
