@@ -3,7 +3,7 @@
 ![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
 
 
-# Hallo Kosmos!
+# Hallo Kosmos!!
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <p align="center">Ich bin Demitri, your next Developer. I live to learn, working and growing every day. My greatest joy is the idea of building for the future. Welcome to my exploration. Enjoy.</p>
