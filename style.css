@@ -3,6 +3,10 @@
   color: white;
 }
 
+.banner {
+  object-fit: cover;
+}
+
 .icons {
   width: 20svw;
   display: flex;
