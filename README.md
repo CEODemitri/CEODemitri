@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-![Firefly full body image of an astronaut while in action pose in a futuristic slim and all black spac](https://github.com/user-attachments/assets/3c37857c-a1d2-4259-9fe6-f2556de0e8f5)
+<img height="350" width="100%" src="https://nature-rouge-three.vercel.app/assets/images/theme1.jpeg"  />
 
 
 <h2 align="left">Hallo Kosmos! Ich bin heiBe Demitri und ich arbeit as a Creative Engineer aus Jotunheim. Bitte!</h2>
@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="350" src="https://demitri2024.vercel.app/freefloat1.png"  />
 
 ###
 
