@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<img height="350" width="100%" src="https://nature-rouge-three.vercel.app/assets/images/theme1.jpeg"  />
+<img height="350" width="100%" src="https://nature-rouge-three.vercel.app/assets/images/theme1.jpeg" class="banner" />
 
 
 <h2 align="left">Hallo Kosmos! Ich bin heiBe Demitri und ich arbeit as a Creative Engineer aus Jotunheim. Bitte!</h2>
