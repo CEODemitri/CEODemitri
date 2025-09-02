@@ -35,6 +35,19 @@ Feel free to explore more in my [repositories section](https://github.com/CEODem
 
 ---
 
+### 🛠️ Contributions & Activity
+
+<!-- GitHub Contribution Graph -->
+![Demitri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CEODemitri&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+
+<!-- GitHub Streaks -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CEODemitri&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CEODemitri&layout=compact&theme=tokyonight)
+
+---
+
 ###  Let’s Connect
 - [Portfolio & Blog](https://demitri2024.vercel.app)  
 - [LinkedIn](#) • [Instagram](#) • [YouTube](#)
