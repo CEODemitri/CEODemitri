@@ -1,58 +1,42 @@
-<link href="style.css" rel="stylesheet"></link>
+# Hallo Kosmos! Hier ist Demitri  
+**Creative Engineer | Full‑Stack Web Developer | UX Enthusiast**
 
-<img height="350" width="100%" src="https://nature-rouge-three.vercel.app/assets/images/theme1.jpeg" class="banner" />
+---
 
+###  About Me
+I’m Demitri (they/them), a passionate developer and UX learner—from **Jötunheim to Nashville, TN**. Currently mastering:
+- **Frontend**: JavaScript, TypeScript, React, HTML5, CSS3  
+- **Backend & Scripting**: Python, C#  
+- **UX & Design**: Wireframing, interactive prototyping, responsive design  
+- Continuously exploring: accessible design, full-stack development with Next.js, Sanity CMS
 
-<h2 align="left">Hallo Kosmos! Ich bin heiBe Demitri und ich arbeit as a Creative Engineer aus Jotunheim. Bitte!</h2>
+---
 
-###
+###  Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[HTML‑Portfolio](https://github.com/CEODemitri/HTML-Portfolio)** | My first portfolio site reimagined | HTML, CSS |
+| **[demitri_davinci](https://github.com/CEODemitri/demitri_davinci)** | Artist blog site with custom interactivity | JavaScript |
+| **[resume‑portfolio](https://github.com/CEODemitri/resume-portfolio)** | Interactive resume built with Sanity & Next.js | TypeScript, React |
+| **[cars](https://github.com/CEODemitri/cars)** | Minimalist static HTML site showcasing CSS skills | HTML, CSS |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CEODemitri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CEODemitri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Feel free to explore more in my [repositories section](https://github.com/CEODemitri?tab=repositories).
 
-###
+---
 
-<img align="right" height="350" src="https://demitri2024.vercel.app/freefloat1.png"  />
+###  Tech Stack & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+###  Let’s Connect
+- [Portfolio & Blog](https://demitri2024.vercel.app)  
+- [LinkedIn](#) • [Instagram](#) • [YouTube](#)
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CEODemitri/CEODemitri/output/snake.svg" alt="Snake animation" />
-
-###
-<!---
-CEODemitri/CEODemitri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Looking to collaborate on web or UX projects? **Let’s build something together!**  
