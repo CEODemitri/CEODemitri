@@ -31,7 +31,6 @@ Feel free to explore more in my [repositories section](https://github.com/CEODem
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
 
 ---
 
