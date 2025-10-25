@@ -4,8 +4,8 @@
 ---
 
 ###  About Me
-I’m Demitri (they/them), a passionate developer and UX learner—from **Jötunheim to Nashville, TN**. Currently mastering:
-- **Frontend**: JavaScript, TypeScript, React, HTML5, CSS3, Tailwind  
+I’m Demitri, a creative developer and UX designer—from **Jötunheim to Nashville, TN**. Currently mastering:
+- **Frontend**: JavaScript, TypeScript, React, CSS3, Tailwind  
 - **Backend & Scripting**: Python, C#, Ruby, Java, Node  
 - **UX & Design**: Wireframing, interactive prototyping, responsive design  
 - Continuously exploring: accessible design, full-stack development with Next.js, Sanity CMS
