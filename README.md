@@ -15,10 +15,10 @@ I’m Demitri, a creative developer and UX designer—from **Jötunheim to Nashv
 ###  Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[HTML‑Portfolio](https://github.com/CEODemitri/HTML-Portfolio)** | My first portfolio site reimagined | HTML, CSS |
+| **[Shoe-Show]([https://github.com/CEODemitri/HTML-Portfolio](https://github.com/CEODemitri/Shoe-Show-V3)** | First Ecommerce Skeleton | NextJS, Tailwind |
 | **[demitri_davinci](https://github.com/CEODemitri/demitri_davinci)** | Artist blog site with custom interactivity | JavaScript |
 | **[resume‑portfolio](https://github.com/CEODemitri/resume-portfolio)** | Interactive resume built with Sanity & Next.js | TypeScript, React |
-| **[cars](https://github.com/CEODemitri/cars)** | Minimalist static HTML site showcasing CSS skills | HTML, CSS |
+| **[java-11]([https://github.com/CEODemitri/cars](https://github.com/CEODemitri/java_11)** | Deep dive, exploring the awesome powers of Java 11 | Java |
 
 Feel free to explore more in my [repositories section](https://github.com/CEODemitri?tab=repositories).
 
@@ -31,6 +31,7 @@ Feel free to explore more in my [repositories section](https://github.com/CEODem
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Java](https://img.shields.io/open-vsx/dt/redhat/java)
 
 ---
 
