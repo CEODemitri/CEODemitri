@@ -1,5 +1,5 @@
 # Hallo Kosmos! Ich heiBe Demitri.  
-**Creative Engineer | Full‑Stack Web Developer | UX Enthusiast**
+**Creative Engineer | Web Developer | UX/UI Enthusiast**
 
 ---
 
