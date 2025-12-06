@@ -8,8 +8,10 @@ I’m Demitri, a creative developer and UX designer—from **Jötunheim to Nashv
 - **Frontend**: JavaScript, TypeScript, React, CSS3, Tailwind  
 - **Backend & Scripting**: Python, C#, Ruby, Java, Node, Bash, YAML  
 - **UX & Design**: Wireframing, interactive prototyping, responsive design
-- **Cloud**: GCP, Terraform, Kubernetes, Sanity  
+- **Cloud**: GCP, Terraform, GKE, Kubernetes, Sanity  
 - **Web**: NextJS, Svelte
+- **Data**: SQL, BigQuery, Mongo
+- **CMS**: Sanity, Appwrite, Firebase
 
 ---
 
