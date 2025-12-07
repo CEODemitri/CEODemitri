@@ -52,7 +52,7 @@ Feel free to explore more in my [repositories section](https://github.com/CEODem
 ---
 
 ###  Let’s Connect
-- [Portfolio & Blog](https://demitri2024.vercel.app)  
+- [Portfolio & Blog](https://demitri26.vercel.app)  
 - [LinkedIn](#) • [Twitter](#) 
 
 Looking to collaborate on web or UX projects? **Let’s build something together!**  
