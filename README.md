@@ -18,10 +18,10 @@ I’m Demitri, a creative developer and graphic designer—from **Jötunheim to 
 ###  Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Shoe-Show]([https://github.com/CEODemitri/HTML-Portfolio](https://github.com/CEODemitri/Shoe-Show-V3)** | First Ecommerce Skeleton | NextJS, Tailwind |
+| **[Shoe-Show](https://github.com/CEODemitri/Shoe-Show-V3)** | First Ecommerce Skeleton | NextJS, Tailwind |
 | **[demitri_davinci](https://github.com/CEODemitri/demitri_davinci)** | Artist blog site with custom interactivity | JavaScript |
 | **[resume‑portfolio](https://github.com/CEODemitri/resume-portfolio)** | Interactive resume built with Sanity & Next.js | TypeScript, React |
-| **[java-11]([https://github.com/CEODemitri/cars](https://github.com/CEODemitri/java_11)** | Deep dive, exploring the awesome powers of Java 11 | Java |
+| **[java-11](https://github.com/CEODemitri/java_11)** | Deep dive, exploring the awesome powers of Java 11 | Java |
 
 Feel free to explore more in my [repositories section](https://github.com/CEODemitri?tab=repositories).
 
