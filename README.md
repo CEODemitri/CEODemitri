@@ -4,14 +4,14 @@
 ---
 
 ###  About Me
-I’m Demitri, a creative developer and UX designer—from **Jötunheim to Nashville, TN**. Currently mastering:
-- **Frontend**: JavaScript, TypeScript, React, CSS3, Tailwind  
+I’m Demitri, a creative developer and graphic designer—from **Jötunheim to Nashville, TN**. Currently mastering:
+- **Frontend**: JavaScript, TypeScript, React, CSS3, Tailwind, Greensock, Spotify
+- **Framework**: Rails, Spring, Django, Svelte, Next, Vue
 - **Backend & Scripting**: Python, C#, Ruby, Java, Node, Bash, YAML  
-- **UX & Design**: Wireframing, interactive prototyping, responsive design
-- **Cloud**: GCP, Terraform, GKE, Kubernetes, Sanity  
-- **Web**: NextJS, Svelte
+- **UX & Design**: Figma, Inkscape, Wireframing and interactive prototyping, responsive design
+- **Cloud**: GCP, Terraform, Kubernetes, Sanity, Docker, Helm
 - **Data**: SQL, BigQuery, Mongo
-- **CMS**: Sanity, Appwrite, Firebase
+- **CMS**: Sanity, Appwrite, Firebase, Cloud Storage
 
 ---
 
